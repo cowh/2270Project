@@ -1,7 +1,1 @@
-My final project implementation will be a graph implementation that takes user input & creates Binary Search Trees. The code will begin by asking you how many nodes you want the tree to contain & then will proceed to ask you what value each node will contain. After the BST is created there will be a few options printed in a menu for the user. The main idea will be a print option that will print the entire BST in ASCII art like so:
-
-
-                                                    50
-                                                  /    \
-                                                 /      \
-                                                25      75
+My final project implementation will be a graph & linked list implementation. The main functionality of the program will be to create, store & traverse graphs to gather information about the graph & determine whether or not the graph is Eulerian. An Eulerian graph can be traversed completely (meaning we visit each vertex once) while only touching each graph once. There are two different concepts that I will touch on in this project. The first being determining & Eulerian trail which finds a path accross a graph that visits each vertex while only touching each edge exactly one time. The second concept is similar, but modified in that it is an Eularian trail that starts & ends on the same node; this is called an Eularian circuit. The linked list functionaly will come into play in my adjacency list. Each index in my adjacency list will be a linked list in which the head contains each city & the trailing nodes & the connected nodes for which the head node has a direct path.
