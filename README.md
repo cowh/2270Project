@@ -4,7 +4,7 @@ My final project implementation will be a graph & linked list implementation. Th
 
 Run
 ------
-Download the PROJECTCODE.zip folder & store the following five files in a like directory:
+Download the folder named "PROJECT CODE.zip" & store the following five files in a like directory:
 - "Stack.hpp"
 - "Stack.cpp"
 - "EulerianGraph.hpp"
