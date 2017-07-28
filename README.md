@@ -4,9 +4,14 @@ My final project implementation will be a graph & linked list implementation. Th
 
 How-To
 ------
-Download the five files included & store them in a like directory.
+Download the FinalProjectCode.zip folder & store the following five files in a like directory:
+- "Stack.hpp"
+- "Stack.cpp"
+- "EulerianGraph.hpp"
+- "EulerianGraph.cpp"
+- "Project.cpp"
 
-The driver file of my code contains the description of how to use my program & it is detailed so I'm leaving it out of my ReadMe file.
+The driver file ("Project.cpp") of my code contains the description of how to use my program & it is detailed so I'm leaving it out of my ReadMe file.
 
 Dependencies
 ------------
